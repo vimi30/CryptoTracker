@@ -68,6 +68,13 @@ Screenshots
 
 
 
+https://github.com/user-attachments/assets/83d30510-b439-4138-8c17-55bfd1ddd795  
+
+https://github.com/user-attachments/assets/143b05e6-13dd-4724-b4f6-ac19d31fb275
+
+
+
+
 License
 
 This project is licensed under the MIT License.
